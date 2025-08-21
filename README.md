@@ -1,4 +1,9 @@
-# Tài Liệu Lập Trình Tiếng Việt
+# Tài Liệu Lập Trình **Tiếng Việt**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Issues](https://img.shields.io/github/issues/<username>/<repository-name>.svg)](https://github.com/<username>/<repository-name>/issues)
+[![Stars](https://img.shields.io/github/stars/<username>/<repository-name>.svg?style=social)](https://github.com/<username>/<repository-name>/stargazers)
 
 Bộ sưu tập tài liệu học lập trình bằng tiếng Việt, tổng hợp từ các nguồn YouTube miễn phí và chất lượng cao, hỗ trợ người học từ cơ bản đến nâng cao.
 
